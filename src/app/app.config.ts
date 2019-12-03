@@ -24,10 +24,10 @@ export const CONFIG: Config = {
     omdbURL: 'http://www.omdbapi.com/',
     fbAppEnabled: false,
     fbAppConfig: {
-        apiKey: '',
-        authDomain: '',
-        databaseURL: '',
-        storageBucket: '',
+        apiKey: 'AIzaSyBCQDofqIMCsMwm3MonWp68BRXP4WS35s0',
+        authDomain: 'niranjans3ln.firebaseapp.com',
+        databaseURL: 'https://niranjans3ln.firebaseio.com',
+        storageBucket: 'niranjans3ln.appspot.com',
     }
 };
 
